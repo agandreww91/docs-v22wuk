@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-fl65lb.10depositcasino.co.nz/sitemap.xml
